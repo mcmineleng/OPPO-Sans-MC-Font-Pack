@@ -1,6 +1,6 @@
 ---
 name: "🐞 Bug 报告"
-description: "报告一个字体包中出现的错误"
+about: "报告一个字体包中出现的错误"
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees: []
